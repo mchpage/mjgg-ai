@@ -6,3 +6,8 @@ data/*
 
 # DS_Store files
 .DS_Store
+
+# Google Drive related files
+data/**/Icon
+data/**/*.gdoc
+data/**/*.gsheet
